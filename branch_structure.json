@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/feature-flags-scaffolding-note",
+    "fix/search-bar-outside-click-clear",
+    "issue-1",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/feature-flags-scaffolding-note": "main",
+    "fix/search-bar-outside-click-clear": "main",
+    "issue-1": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/feature-flags-scaffolding-note",
+    "fix/search-bar-outside-click-clear",
+    "issue-1",
+    "origin"
+  ]
+}
